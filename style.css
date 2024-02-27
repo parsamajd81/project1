@@ -4,3 +4,9 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 2rem;
 }
+.hello-time{
+    color: brown;
+    font-size: large;
+    margin-top: auto;
+    padding-left: auto;
+}
